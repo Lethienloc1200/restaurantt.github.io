@@ -1,0 +1,866 @@
+/*start topheader*/ 
+.topheader {
+    background: #222222;
+    height: 40px;
+    color: #dddddd;
+    line-height: 40px;
+}
+
+.mangxh a {
+    color:  #dddd;
+    font-size: 12px;
+    padding: 0 13px;
+}
+
+.mangxh a:nth-child(1) {
+    padding-left: 0;
+}
+
+.datban {
+    border-left: 1px solid gray;
+    float: left;
+    margin-left: 17px;
+    padding-left: 25px;
+    font-size: 13px;
+    color: #dddd;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.fontroboto{font-family: 'Roboto Slab', serif;}
+.font_oswald{font-family: 'Oswald', sans-serif;}
+.fontdangcing{font-family: 'Dancing Script', cursive;}
+
+.datban.openingtop.float-sm-right.text-sm-left.text-xs-center {
+    border-right: 1px solid  gray;
+    padding-right: 25px;
+}
+/*HET TOPHEADER */
+
+.gioithieudaubep img {
+    padding-top: 90px;
+}
+.thongtin {
+    padding-top: 140px;
+    padding-left: -9px;
+}
+
+span.fontdangcing {
+    color: #ecbc01;
+    font-size: 30px;
+    padding-bottom: 20px;
+    display: block;
+}
+
+.thongtin h2.font_oswald {
+    font-size: 38px;
+    color: #191818b3;
+    /* font-family: 'Oswald', sans-serif; */
+}
+
+
+/*BAT DAU MENU & LOGO*/
+li.nav-item  {
+    color: rebeccapurple;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0 / 77%);
+    font-weight: 600;
+    font-size: 1.1rem;
+    padding-right: 3.3rem;
+}
+
+a.nav-link.btn.btn-warning {
+    border-radius: 0px;
+    color: black;
+    width: 152px;
+    height: 45px;
+    line-height: 45px;
+    padding: 0px;
+    transform: translateY(-8px);
+}
+/*END MENU & LOGO*/
+
+/*bat dau slide*/
+.chu {
+    position: absolute;
+    color: white;
+    margin-left: 15%;
+    background: url(images/logohoa.png) no-repeat left top;
+    padding-top: 169px;
+    margin-right: 66px;
+    padding-bottom: 35px;
+    top: 95px;
+    background-color: #00000075;
+    border-radius: 20px;
+}
+h2.font_oswald {
+    font-size: 50px;
+}
+
+p {
+    font-size: 14px;
+}
+
+.chu a.btn.btn-warning {
+    border-radius: 0px;
+    color: black;
+    width: 164px;
+    height: 50px;
+    line-height: 50px;
+    padding: 0px;
+}
+/*het slide*/
+
+
+/*KHOI 3 DICH VU*/
+*{margin: 0;padding: 0;}
+.badichvu {
+    padding-top: 31px;
+}
+
+.badichvu h3 a {color: black;font-size: 20px;text-align: center;display: block;padding-top: 30px;padding-bottom: 15px;}
+
+.badichvu p {
+    text-align: center;
+    line-height: 24px;
+    font-size: 14px;
+    color: #777777;
+    margin: 0;
+}
+
+a.readmore {
+    text-align: center;
+    color: #333333;
+    display: block;
+    padding-top: 29px;
+}
+/*HET KHOI 3 DICH VU*/
+
+/*KHOI MENU*/
+
+
+
+.khoimenu {
+    background: url(images/slide03.jpg);
+    text-align: center;
+    height: 550px;
+    padding-top: 16%;
+    margin-top: 120px;
+    color: wheat;
+}
+span.tieudephu.fontdangcing {
+    font-size: 38px;
+    color: #feb518;
+}
+
+h3.tieudechinh.fontroboto {
+    font-size: 36px;
+    color: #ffffff;
+}
+
+/*HET KHOI MENU*/
+
+/*NOI DUNG CHI TIET*/
+*{margin: 0;padding:0;}
+
+.thucdonchitiet .tieudechitiet{
+    margin-top: 20px;
+    height: 40px;
+    background: #00000075;
+    line-height: 40px;
+}
+.thucdonchitiet .noidungchitiet{
+    height: auto !important;
+    position: relative;
+    margin-top: 76px;
+}
+.thucdonchitiet .noidungchitiet .noidung{
+    height: 100%;
+    border: 1px solid gold;
+    position: absolute;
+    top: 0px;
+    opacity:0;
+    visibility: hidden;
+}
+/*HET NOI DUNG CHI TIET*/
+
+/*HIEU UNG LOC MENU*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.col-xs-12.col-sm-6.col-md-4.motmon {
+    height: 120px;
+}
+
+.anhmon {
+    position: relative;
+    width: 100%;
+}
+.anhmon img.img-fluid {
+    width: 106px;
+    height: 90px;
+}
+.tagnew {
+    position: absolute;
+    top: 0;
+    font-size: 11px;
+    padding: 0px 7px;
+    background: yellow;
+}
+
+.noidungchitiet .row .row [class*=col-] {padding-left: 10px;padding-right: 10px;}
+
+b.ten {
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    transform: translateY(4px);
+    display: inline-block;
+    background: #ffffff;
+    padding-right: 7px;
+}
+
+.tenmon .tren {
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    border-bottom: 2px dotted #00000069;
+}
+
+.tenmon .tren span {
+    background: white;
+    transform: translateY(4px);
+    padding-left: 8px;
+}
+.duoi {
+    padding-top: 13px;
+    color: #777;
+    font-family: 'Roboto Slab', serif;
+    font-size: 12px;
+}
+
+.tieudechitiet a {
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.tieudechitiet a:focus {
+    color: yellow;
+    
+}
+
+.tieudechitiet.text-xs-center {
+    margin-top: -40px;
+}
+/*HET HIEU UNG LOC MENU*/
+
+/*BAT DAu SLIDE*/
+ .sanpham {
+    width: 20%;
+    float: left;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+img.anhspslide {
+    width: 220px;
+    height: 210px;
+}
+
+.slidemonan {
+    margin-top: 20px;
+    background: url(images/slide03.jpg);
+    background-size: cover;
+    color: white;
+    padding-bottom: 67px;
+}
+.slidemonan h4 {
+    font-size: 25px;
+    font-family: 'Roboto Slab', serif;
+    padding: 33px;
+}
+
+.slidemonan a.right.carousel-control,.slidemonan a.left.carousel-control {
+    background: #44d63a40;
+    color: white;
+    width: 34px;
+    height: 34px;
+    top: -53px;
+    position: absolute;
+    line-height: 34px;
+    text-align: center;
+}
+.slidemonan a.left.carousel-control {
+    left: auto;
+    right: 39px;
+}
+.slidemonan a.right.carousel-control:hover,.slidemonan a.left.carousel-control:hover {
+    background-color: rgb(214 198 13 / 68%);
+}
+.slidemonan ol.carousel-indicators {
+    display:none;
+}
+
+/*HET SLIDE*/
+
+/*xu ly cho dau bep*/
+
+
+/*het xu ly dau bep*/
+/*xu ly khoi sloganhome*/
+
+.sloganhome {
+    background: #000000e3;
+    padding: 200px 0px;
+    margin-top: 56px;
+    color: white;
+}
+
+.sloganhome h3.fontdangcing {
+    color: #ffc500db;
+}
+a.icondb {
+    font-size: 1.5rem;
+    margin-right: 20px;
+}
+/*het xu ly khoi sloganhome*/
+
+/*su ly khoi duoi*/
+.thongtindatban h2.fontroboto {
+    padding-top: 61px;
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+
+.giodb span.vang {
+    color: orange;
+}
+.dienthoaidb.font_oswald {
+    font-weight: bold;
+    font-size: 27px;
+}
+/*het su ly khoi duoi   */
+
+/*su ly form book lich*/
+.fontdatban {margin-top: 50px;}
+
+.fontdatban .col-sm-12 {
+    padding-bottom: 20px;
+}
+
+.fontdatban a.btn.btn-danger {
+    font-weight: bold;
+    background: orange;
+    font-size: 20px;
+    margin: 20px 0px;
+    padding: 12px 38px;
+}
+/*het su ly form book lich*/
+
+
+/*xu ly phan hoi*/
+.quocte{
+
+}
+.quocte:before{
+    content: '"';
+}
+.quocte:after{
+    content: '"';
+}
+
+.tengnuoi:before{
+    content: "-";
+}
+.phanhoinguoidung {
+    background: #787878;
+}
+
+.phanhoinguoidung.icon {}
+
+.phanhoinguoidung .icon {
+    padding-top: 108px;
+    padding-bottom: 48px;
+    color: #ffffffc9;
+}
+
+.phanhoinguoidung .quocte {
+    font-size: 18px;
+    line-height: 37px;
+    color: #ffffffba;
+}
+
+b.font_oswald.tengnuoi {}
+
+b.font_oswald.tengnuoi {
+    color: orange;
+    font-size: 23px;
+    /* margin: 22px; */
+}
+.phanhoinguoidung ol.carousel-indicators {
+    top: 376px;
+}
+/*het xu ly phan hoi*/
+.tdtintuchome {
+    margin-top: 120px;
+}
+
+.tdtintuchome span.fontdangcing {
+    color: #ecbc01;
+    font-size: 30px;
+    padding-bottom: 0px;
+    display: block;
+}
+
+.tdtintuchome h2.fontroboto {
+    padding-bottom: 35px;
+}
+
+a.tieudetin1.font_oswald {
+    padding-top: 20px;
+    display: block;
+    color: #000000c2 !important;
+    font-weight: bold;
+}
+.ngaythang span.vang {
+    color: orange;
+    /* padding-top: 20px; */
+}
+
+.tintuchome .ngaythang {
+    padding-bottom: 12px;
+    /* padding-top: 20px; */
+}
+
+.tintuchome .docthem {
+    padding-top: 20px;
+    border-top: 1px dotted;
+    /* border: 1px dotted; */
+}
+
+/*====XU ly footer======*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.khoifootertop {
+    margin-top: 60px;
+    background: #151515;
+    color: #888;
+    line-height: 24px;
+    font-size: 14px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.khoifootertop i.fa {
+    padding-right: 10px;
+    color: white;
+}
+
+h2.tdft {
+    font-size: 14px;
+    color: #b7adad;
+    position: relative;
+}
+
+h2.tdft:after {content: "";width: 20px;height: 2px;top: 22px;left: 0px;position: absolute;background: orange;}
+
+.cotf2 ul,.cotf3 ul {
+    list-style: none;
+    font-size: 16px;
+/*     color: gray; */
+    margin-top: 36px;
+    line-height: 29px;
+}
+
+h2.tdft ul li a {}
+
+.cotf2 ul li a,.cotf3 ul li a {
+    color: gray;
+}
+
+
+.col-sm-3.cotf3 {
+     padding-left: 40px
+}
+.openning1 {
+    border-bottom: 1px dotted;
+    padding-top: 12px;
+}
+
+.openning1 .phai.float-xs-right {
+    background: #151515;
+    /* margin-top: 1px; */
+    /* display: block; */
+    padding-left: 5px;
+    transform: translateY(6px);
+}
+.openning1 .trai {
+    background: #151515;
+    width: 58px;
+    /* margin-top: 1px; */
+    /* display: block; */
+    /* position: absolute; */
+    padding-left: 5px;
+    transform: translateY(6px);
+}
+
+.note {
+    padding-top: 28px;
+}
+
+
+.khoifooterbottom.text-xs-center {
+    background: black;
+    height: 90px;
+    line-height: 90px;
+    color: #777777;
+    /* padding: 0px; */
+    /* font-size: 2px; */
+    /* margin: 0px; */
+}
+
+/*het xu ly footer ======*/
+
+/*=======================================XU LY ABOUT*/
+.thongtin2about {
+    padding: 90px 0px;
+}
+.khoimenu.about.wow.fadeInUp.about {
+    margin-top: 0px;
+}
+
+h3.tieudechinh1.fontroboto {
+    font-size: 34px;
+    color: #2a2626cc;
+    padding-bottom: 45px;
+}
+.badichvu_about img.img-fluid {
+    width: auto;
+    height: 109px;
+}
+a.readmore.vang {
+    color: orange;
+}
+
+.gioithieudaubep.gioithieu_about {
+    background-image: url(images/backgroundabout.jpg);
+}
+.khoigancuoi {
+    background: #6e6e6e;
+    line-height: 180px;
+    height: 180px;
+    font-size: 30px;
+    color: white;
+}
+.khoigancuoi .col-xs-5 {margin-left: -40px;}
+/*==================HET ABOUT*/
+
+
+/*========================XU LY THUC DON*/
+
+.khoi1thucdon {
+    padding-top: 96px;
+}
+.khoimenu.thucdon {
+    padding-top: 9%;
+}
+/*=============================HET XU LY THUC DON*/
+
+/*================================Tin tuc*/
+input.form-control.phansearchct {
+    position: relative;
+}
+
+button.iconsearch {
+    position: absolute;
+    top: 5px;
+    right: 22px;
+    border: none;
+    cursor: pointer;
+    background: none;
+}
+.kkhoilist.mt-3 ul li a {
+    font-size: 19px;
+    color: gray;
+    line-height: 43px;
+    padding-left: 17px;
+}
+
+.kkhoilist ul {padding-left: 20px;color: gray;}
+
+.ngaythang.tintuc {
+    padding-bottom: 16px;
+}
+.phantrang li {
+    list-style: none;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 50%;
+    line-height: 40px;
+}
+
+.phantrang ul.pagination li a {
+    text-align: center;
+}
+
+nav.phantrang {
+    text-align: center;
+}
+.phantrang li {
+    list-style: none;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 50%;
+    line-height: 40px;
+}
+
+.phantrang ul.pagination li a {
+    text-align: center;
+}
+
+nav.phantrang {
+    text-align: center;
+    /* display: inline-block; */
+}
+li.current {
+    background: orange;
+}
+/*=================================Het tin tuc*/
+
+/*===================COntact*/
+.formthongtin input.form-control {
+    margin: 15px 0;
+}
+
+textarea.form-control.formcomment {
+    margin-top: 14px;
+    height: 115px;
+}
+a.btn.btn-warning.Send_us_a_message {
+    background: black;
+    width: 540px;
+    padding-left: -13px;
+    margin-left: -15px;
+    border-radius: unset;
+    margin-top: 15px;
+}
+.khoi2dongg h2.font_oswald {
+    font-size: 32px;
+}
+
+.khoi2dongg.text-xs-center {
+    margin-top: 70px;
+}
+
+a.btn.btn-warning.Send_us_a_message {
+    text-transform: uppercase;
+}
+/*==================================HET CONTACT*/
+
+
+
+
+
+
+
+
+
+
+/*SU LY GIAO DIEN DI DONG*/
+@media (max-width: 576px)
+{
+    *{}
+
+a.btn.btn-danger.nutdatban {
+    width: 71px;
+    padding: 0px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 9.5px;
+}
+
+    .topheader {
+        height: auto;
+        padding-bottom: 10px;
+    }
+    .datban {
+        border: none;
+        text-align: center;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        border-top: 1px dashed #80808085;
+    }
+    .datban.openingtop.float-sm-right.text-sm-left.text-xs-center {
+        border-right: none;
+        padding-right: 0px;
+    }
+
+    a.navbar-brand.text-xs-center.text-sm-left img {
+        height: 70px;
+    }
+    /*su ly phan menu va logo*/
+    a.nav-link {
+
+        margin: 20px 0px;
+        text-align: center;
+        border-bottom: 1px solid gray;
+    }
+
+
+    .datbanmenu a.nav-link.btn.btn-warning {
+        margin-top: 35px;
+        text-align: center;
+        margin-left: 26%;
+    }
+    .chu {
+        position: absolute;
+        color: white;
+        margin-left: 15%;
+        background: url(images/logohoa.png) no-repeat left top;
+        padding-top: 194px;
+        padding-left: 14px;
+        top: 15px;
+    }
+    h2.font_oswald {
+         font-size: 15px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    .chu a.btn.btn-warning {
+        width: 50px;
+        height: 25px;
+        padding: 0;
+        margin: 0;
+        line-height: 25px;
+        font-size: 10px;
+    }
+    /*nut 3 cham*/
+    
+    ol.carousel-indicators {
+        width: 34px;
+        height: 20px;
+        padding-top: 25px;
+        margin-left: -31px;
+    }
+
+    ol.carousel-indicators li {
+        width: 6px;
+        height: 6px;
+    }
+
+    ol.carousel-indicators .active {
+        width: 6px;
+        height: 6px;
+}
+    /*het nut 3 cham*/
+     /* start 3 dich vu*/
+    a.readmore {
+        width: 148px;
+        line-height: 26px;
+        height: 28px;
+        border: 2px solid;
+        margin-bottom: 46px;
+        /* border-bottom: 1px solid blue; */
+        margin-top: 15px;
+        text-align: center;
+        margin-left: 117px;
+        display: inline-block;
+        padding: 0;
+        color: #e85050;
+        border-radius: 7px;
+        background: #ffc1079c;
+    }
+
+     /*end 3 dich vu*/
+
+
+     /*menu anh*/
+    span.tieudephu.fontdangcing {
+        font-size: 20px;
+        /* padding: 0px; */
+        /* margin: 0px; */
+    }
+
+    h3.tieudechinh.fontroboto {
+        font-size: 23px;
+    }
+
+    .khoimenu {
+        height: 235px;
+        background-size: cover;
+    }
+     /*hetmenuanh*/
+     /*xu ly phan slide 5 mon an*/
+     .sanpham {
+         width: 50%;
+        padding: 27px 17px;
+        box-sizing: border-box;
+     }
+
+    .row .sanpham:last-child {
+        width:100%;
+    }
+      /* het xu ly phan slide 5 mon an*/     
+        
+     /* bat dau xu ly cho dau bep*/
+        .thongtin {
+            padding-top: 63px;
+        }
+
+        .thongtin h2.font_oswald {
+            font-size: 20px;
+        }
+
+        .thongtin span.fontdangcing {
+            font-size: 20px;
+        }
+
+        .daubepcontact i.fa.fa-facebook {
+            width: 25px;
+            height: 25px;
+            color: white;
+            line-height: 25px;
+
+        }
+     /* het xu ly cho dau bep*/
+     .sloganhome {
+    padding: 149px 0px;
+}
+}
+/*END XU LY GIAO DIEN DI DONG*/
+
+@media (max-width: 768px){
+    
+    *{}
+
+img.anhspslide {
+    width: 100%;
+}
+.col-sm-9.col-md-8 {
+    position: absolute;
+    right: 0;
+    top: 0px;
+    width: 50%;
+}
+img.img-fluid {
+    width: 121%;
+    margin-left: 0.2rem;
+}
+.chu {
+    margin-left: 33px;
+}
+}
